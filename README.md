@@ -22,3 +22,17 @@ A full-stack web application for creating, managing, and tracking invoices. Buil
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Hosted on Atlas)
 - **Deployment**: *(Add once deployed)*
+
+
+
+ Upcoming Features
+✅ Email invoice to customers
+
+✅ Automated reminders
+
+✅ Invoice templates
+
+✅ Admin panel
+
+✅ Stripe/Razorpay integration
+
