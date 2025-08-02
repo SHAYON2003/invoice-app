@@ -36,3 +36,5 @@ A full-stack web application for creating, managing, and tracking invoices. Buil
 
 ✅ Stripe/Razorpay integration
 
+👨‍💻 Author
+Shayon – LinkedIn 
