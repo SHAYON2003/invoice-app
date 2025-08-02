@@ -7,7 +7,7 @@ A full-stack web application for creating, managing, and tracking invoices. Buil
 - ✅ Create and edit invoices with real-time preview
 - 🧑‍💼 Add and manage customers
 - 💸 Track payment status (Paid / Pending)
-- 📈 Dashboard with analytics and charts
+- 📈 Dashboard with analytics 
 - 📄 Download invoices as PDFs 
 - 🌙 Dark mode toggle
 - 📊 Invoice completion meter
