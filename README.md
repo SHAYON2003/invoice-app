@@ -8,8 +8,7 @@ A full-stack web application for creating, managing, and tracking invoices. Buil
 - 🧑‍💼 Add and manage customers
 - 💸 Track payment status (Paid / Pending)
 - 📈 Dashboard with analytics and charts
-- 📄 Download invoices as PDFs (coming soon)
-- 🌐 Razorpay integration (coming soon)
+- 📄 Download invoices as PDFs 
 - 🌙 Dark mode toggle
 - 📊 Invoice completion meter
 - 🔍 Invoice filters and search
