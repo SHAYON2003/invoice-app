@@ -25,9 +25,9 @@ A full-stack web application for creating, managing, and tracking invoices. Buil
 
 
 
- Upcoming Features
- 
-✅ Email invoice to customers
+📦 Upcoming Features
+
+ ✅ Email invoice to customers
 
 ✅ Automated reminders
 
@@ -35,6 +35,6 @@ A full-stack web application for creating, managing, and tracking invoices. Buil
 
 ✅ Admin panel
 
-✅ Razorpay integration
+✅ Stripe/Razorpay integration
 
 
